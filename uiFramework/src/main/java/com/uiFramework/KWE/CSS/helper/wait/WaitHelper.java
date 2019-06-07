@@ -64,6 +64,4 @@ public class WaitHelper {
 			wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(element));
 			log.info("Frame is availabe and switched");	
 		}
-		
-		
 }
